@@ -1,0 +1,23 @@
+{
+  "name": "test.js.ava.initial-tests",
+  "version": "0.0.0",
+  "description": "Repo for initial tests of Ava.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmykolyn/test.js.ava.initial-tests.git"
+  },
+  "author": "Jesse R Mykolyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmykolyn/test.js.ava.initial-tests/issues"
+  },
+  "homepage": "https://github.com/jrmykolyn/test.js.ava.initial-tests#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  },
+  "dependencies": {}
+}
